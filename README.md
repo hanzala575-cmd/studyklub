@@ -1,2 +1,0 @@
-# studyklub
-school project
